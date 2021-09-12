@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [NoDroid bots](https://telegram.dog/NoDroid_Bots)
 
 ### Features
 

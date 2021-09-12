@@ -28,7 +28,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 ```sh
 
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
+git clone https://github.com/NoDroidBots/Nod-URLUploader
 
 cd URLuploader-With-Hotstar
 
